@@ -1,0 +1,6 @@
+{
+  "name": "淨灘安全助手",
+  "description": "專為淨灘志工設計的智慧聊天小助手，提供實用導航、專業知識與最高原則的安全守護指引。",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
